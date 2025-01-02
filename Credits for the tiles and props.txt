@@ -20,13 +20,22 @@ Thanks to:
 - Shotgun Slugs for some props in "Misc2"
 - Nautilo for the huge signs
 
-- Ludocrypt for the Ludos Brutals, Ludo Wall Vents, Wall wires Front, More vent hubs, more Thick Floors
+- Ludocrypt for the Ludos Brutals, Ludo Wall Vents, Wall wires Front, More vent hubs, more Thick Floors, Ludos Melts
 - Addy for Large Shelters
-- Chloe for Monster Fan Bits
-- Orchid for Post Box Segments & Rotated Sky Boxes
+- Chloe (qt_pi_) for Monster Fan Bits, Plate Slopes, rotated and flipped Machine Boxes, BKG CrossBoxes
+- Orchid for Post Box Segments, Rotated Sky Boxes, VLB Transitions, edited Elevator Track, rotated Engine Rims
 - Alekus for Weakened Platform tiles
-- Alduris for Wind Chimes Thin
+- Alduris for Wind Chimes Thin, Metal Holes bkg
 - Dedniko for torso machine
 - April for material previews for mers mats, uglies, and 34th's materials
-- Wrayk for Rebar prop
-- 34th for Tetrapods
+- Wrayk for Rebar prop, FGBox
+- 34th for Tetrapods and Saphrod Growers
+- LeEpicPasta for Glass Tubes and improved Distant Crossbeam previews
+- Zenodo for Boring Fans
+- Seroen for Mega Trains, 1x1 % 2x2 CrossBoxes
+- zedarelgd for Birdspikes, Urban AC Unit, Machine Box F & G, Floor Plate A & B, Baloon Plant, Arm Coral
+- Ovidia for VLB B 1 Layer, Water Chamber Horizontal
+- Oscarriaq for Giant Pipe fix
+- Snoodle for Massive Gears
+- Mold223 for & signs
+- Markus for Mo' Tiles

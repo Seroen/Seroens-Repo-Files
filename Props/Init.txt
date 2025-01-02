@@ -100,6 +100,8 @@
 [#nm:"EFCubePlant20x25", #tp:"standard", #colorTreatment:"standard", #sz:point(20,25), #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tags:["effectColorB"], #layerExceptions:[], #notes:[]]
 [#nm:"Petal", #tp:"variedSoft", #pxlSize:point(50, 49), #vars:3, #random:0, #depth:2, #round:1, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.2, #shadowBorder:0.8, #smoothShading:3, #colorize:1, #tags:["postEffects"], #notes:[]]
 [#nm:"Seaweed", #tp:"variedStandard", #colorTreatment:"standard", #bevel:1, #sz:point(4,23), #repeatL:[1], #vars:3, #random:1, #tags:["randomFlipX", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Baloon Plant", #tp:"variedSoft", #pxlSize:point(16, 75), #vars:4, #random:1, #depth:3, #round:7, #contourExp:1.6, #selfShade:4, #highLightBorder:3, #depthAffectHilites:2, #shadowBorder:3, #smoothShading:10, #colorize:0, #tags:["randomFlipX"], #notes:[]]
+[#nm:"Arm Coral", #tp:"variedSoft", #pxlSize:point(30, 70), #vars:4, #random:1, #depth:2, #round:5, #contourExp:1, #selfShade:2, #highLightBorder:5, #depthAffectHilites:1, #shadowBorder:0.5, #smoothShading:5, #colorize:1, #tags:["randomFlipX", "randomFlipY", "randomRotat", "drawLast", "customColor"], #notes:[]]
 
 -["Palms", color(180, 255, 255)]
 [#nm:"Palm Crown", #tp:"variedSoft", #pxlSize:point(260, 320), #vars:7, #random:0, #depth:4, #round:1, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.2, #shadowBorder:0.8, #smoothShading:3, #colorize:1, #tags:["postEffects"], #notes:[]]
