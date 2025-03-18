@@ -1,2 +1,0 @@
-BI_CORE
-BI_S01

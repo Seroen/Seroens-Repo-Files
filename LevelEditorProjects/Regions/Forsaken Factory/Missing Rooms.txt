@@ -1,3 +1,0 @@
-F1_A12
-F1_B08
-F1_Reactor
